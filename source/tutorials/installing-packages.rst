@@ -679,4 +679,4 @@ you know publishes one, you can include it in the pip installation command:
 
 .. [4] The compatible release specifier was accepted in :pep:`440`
        and support was released in :ref:`setuptools` v8.0 and
-       :ref:`pip` v6.0
+       
